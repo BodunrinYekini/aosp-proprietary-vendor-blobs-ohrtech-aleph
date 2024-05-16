@@ -34,7 +34,6 @@ PRODUCT_COPY_FILES += \
     vendor/ohrtech/aleph/proprietary/lib64/libstagefright_surface.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libstagefright_surface.so \
     vendor/ohrtech/aleph/proprietary/lib64/libstagefright_surface_utils.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libstagefright_surface_utils.so \
     vendor/ohrtech/aleph/proprietary/lib64/libstagefright_wfd.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libstagefright_wfd.so \
-    vendor/ohrtech/aleph/proprietary/lib64/libnfc_nci_jni.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libnfc_nci_jni.so \
     vendor/ohrtech/aleph/proprietary/odm/bin/CamDevSim:$(TARGET_COPY_OUT_SYSTEM)/odm/bin/CamDevSim \
     vendor/ohrtech/aleph/proprietary/odm/bin/cam_tuning:$(TARGET_COPY_OUT_SYSTEM)/odm/bin/cam_tuning \
     vendor/ohrtech/aleph/proprietary/odm/bin/fm_tools:$(TARGET_COPY_OUT_SYSTEM)/odm/bin/fm_tools \
