@@ -760,16 +760,10 @@ PRODUCT_COPY_FILES += \
     vendor/ohrtech/aleph/proprietary/odm/logo/time_vert_48x24x13.yuv:system/odm/logo/time_vert_48x24x13.yuv \
     vendor/ohrtech/aleph/proprietary/odm/logo/time_vert_72x36x13.rgba:system/odm/logo/time_vert_72x36x13.rgba \
     vendor/ohrtech/aleph/proprietary/odm/logo/time_vert_72x36x13.yuv:system/odm/logo/time_vert_72x36x13.yuv \
-    vendor/ohrtech/aleph/proprietary/system_ext/app/SoterService/SoterService.apk:system/system_ext/app/SoterService/SoterService.apk \
     vendor/ohrtech/aleph/proprietary/system_ext/etc/camera/default_cnr3_param.txt:system/system_ext/etc/camera/default_cnr3_param.txt \
     vendor/ohrtech/aleph/proprietary/system_ext/etc/camera/default_ynr_param.txt:system/system_ext/etc/camera/default_ynr_param.txt \
     vendor/ohrtech/aleph/proprietary/system_ext/etc/init/dataLogDaemon.rc:system/system_ext/etc/init/dataLogDaemon.rc \
     vendor/ohrtech/aleph/proprietary/system_ext/etc/init/data_rps.rc:system/system_ext/etc/init/data_rps.rc \
-    vendor/ohrtech/aleph/proprietary/system_ext/priv-app/ims/ims.apk:system/system_ext/priv-app/ims/ims.apk \
-    vendor/ohrtech/aleph/proprietary/vendor/app/LogManager/LogManager.apk:$(TARGET_COPY_OUT_VENDOR)/app/LogManager/LogManager.apk \
-    vendor/ohrtech/aleph/proprietary/vendor/app/ProxyNFwLocation/ProxyNFwLocation.apk:$(TARGET_COPY_OUT_VENDOR)/app/ProxyNFwLocation/ProxyNFwLocation.apk \
-    vendor/ohrtech/aleph/proprietary/vendor/app/UASetting/UASetting.apk:$(TARGET_COPY_OUT_VENDOR)/app/UASetting/UASetting.apk \
-    vendor/ohrtech/aleph/proprietary/vendor/app/WirelessTools/WirelessTools.apk:$(TARGET_COPY_OUT_VENDOR)/app/WirelessTools/WirelessTools.apk \
     vendor/ohrtech/aleph/proprietary/vendor/bin/aiactiver_testbench:$(TARGET_COPY_OUT_VENDOR)/bin/aiactiver_testbench \
     vendor/ohrtech/aleph/proprietary/vendor/bin/audiodumpclient:$(TARGET_COPY_OUT_VENDOR)/bin/audiodumpclient \
     vendor/ohrtech/aleph/proprietary/vendor/bin/boringssl_self_test32:$(TARGET_COPY_OUT_VENDOR)/bin/boringssl_self_test32 \
